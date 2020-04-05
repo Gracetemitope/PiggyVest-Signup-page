@@ -1,0 +1,75 @@
+body {
+    background-color: #ADD8E6;
+    margin: 0;
+    padding: 0;
+}
+.img {
+    margin-left: 425px;
+}
+
+#welcome {
+    text-align: center;
+    color: grey;
+    margin-left: 60px;
+}
+#sign-up {
+    margin:0px 0px 30px 30px;
+}
+.form-container {
+     margin: 0px 0px 0px 430px;
+     background-color: white;
+     width: 400px;
+     border-radius: 15px;
+
+}
+h2 {
+    color: rgb(53, 53, 138);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+}
+#sign-in {
+    color: white;
+    text-align: center;
+}
+#name {
+    width: 300px;
+    height: 25px;
+    border-radius: 5px;
+    padding: 8px;
+    border: none;
+    outline: none;
+    background-color:rgb(238, 231, 231);
+}
+#select {
+        width: 67px;
+        padding: 8px;
+        border: none;
+        border-radius: 3px;
+        outline: none;
+        background-color:rgb(238, 231, 231);
+}
+#About {
+    width: 233px;
+    padding: 8px;
+    border: none;
+    border-radius: 3px;
+    outline: none;
+    background-color:rgb(238, 231, 231);
+}
+#About::placeholder{
+    color: black;
+}
+#submit {
+    width: 150px;
+    background-color: rgb(53, 53, 138);
+    color: white;
+    border-radius: 8px 8px 14px 0px;
+    padding: 10px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    border: none;
+
+}
